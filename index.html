@@ -1,0 +1,64 @@
+---
+layout: default
+title: "Homepage"
+---
+
+
+<h1 id="posters-title">Opfer rechter Gewalt in Baden-Württemberg</h1>
+<!-- Link to murder cases -->
+<section id="posters">
+	{% assign sorted = site.murders | sort_natural: "Datum" %}
+	{% for murder in sorted %}
+	<div class="poster" data-link="{{ murder.url }}">
+		<table id="person">
+			{% for name in murder.Name %}
+				<tr>
+					<th>Name:</th>
+					<td class="person-name">{{ name }}</td>
+				</tr>
+				<tr>
+					{% if murder.Alter[forloop.index0] %}
+					<th class="age">Alter:</th>
+					<td>{{ murder.Alter[forloop.index0] }}</td>
+					{% endif %}
+				</tr>
+			{% endfor %}
+		</table>
+		<hr>
+		<table id="place-time">
+			<tr>
+				<th>Tatort:</th>
+				<td>{{ murder.Tatort }}</td>
+			</tr>
+			<tr>
+				<th>Datum:</th>
+				<td>{{ murder.Datum | date: "%d.%m.%Y" }}</td>
+			</tr>
+		</table>
+	</div>
+	{% endfor %}
+</section>
+
+<h1 id="blog-title">Blog posts</h1>
+
+<section id="blog">
+	<!-- Show preview of posts -->
+		
+	<ul class="post-list">
+		{%- for post in site.posts -%}
+			<li>
+				{%- assign date_format = "%b %-d, %Y" -%}
+				<span class="post-meta">{{ post.date | date: date_format }}</span>
+				<h3>
+				<a class="post-link" href="{{ post.url | relative_url }}">
+					{{ post.title | escape }}
+				</a>
+				</h3>
+				{%- if site.show_excerpts -%}
+				{{ post.excerpt }}
+				{%- endif -%}
+			</li>
+		{%- endfor -%}
+	</ul>
+
+</section>

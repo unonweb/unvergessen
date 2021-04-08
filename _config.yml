@@ -1,0 +1,9 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Unvergessen" # the name of your site, e.g. ACME Corp.
+description: "Opfer rechter Gewalt in Baden-Württemberg"
+collections:
+  murders:
+    output: true
+exclude: [backup]
+keep_files: [assets]
