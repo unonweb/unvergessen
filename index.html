@@ -11,7 +11,7 @@ title: "Homepage"
 	{% for murder in sorted %}
 	
 	<!-- Here the URL is added to an HTML attribute in order to retrieve it later with JS -->
-	<div class="poster" data-link="{{ site.baseurl }}/{{ murder.url }}">
+	<div class="poster" data-link="{{ site.baseurl }}{{ murder.url }}">
 		<table id="person">
 			{% for name in murder.Name %}
 				<tr>
