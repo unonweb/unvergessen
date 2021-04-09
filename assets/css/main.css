@@ -1,0 +1,108 @@
+header {
+    grid-area: header;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
+    overflow: hidden;
+    border-width: 1px;
+    border-style: solid;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 100px 1fr minmax(150px, 800px) 1fr 100px;
+    grid-template-rows: 120px 100px auto 100px 100px 100px;
+    grid-template-areas: '. . header . .' '. . posters-title . .' '. posters posters posters .' '. . blog-title . .' '. . blog . .' '. footer footer footer .';
+    grid-area: header;
+    background-color: #dadada;
+    font-family: 'Abel', sans-serif;
+}
+
+header > img {
+    object-fit: cover;
+    width: 100%;
+    object-position: left top;
+    height: 100%;
+}
+
+aside > input {
+    margin-bottom: 10px;
+}
+
+aside {
+    grid-area: aside;
+}
+
+section#posters {
+    grid-area: posters;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+section#blog {
+    grid-area: blog;
+}
+
+div.poster {
+    background-color: #fffbfb;
+    padding: 6px 10px;
+    border: 1px solid #000000;
+    border-radius: 11px;
+    height: fit-content;
+    margin: 5px;
+    cursor: pointer;
+}
+
+dt {
+    text-decoration: underline;
+    float: left;
+    clear: left;
+    margin-right: 3px;
+}
+
+dd {
+    margin-bottom: 5px;
+    margin-top: 1px;
+}
+
+th.age {
+    font-weight: normal;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr.table-separator {
+    border-top-width: 3px;
+    border-top-style: solid;
+    height: 10px;
+}
+
+table#place-time {
+    margin-top: 10px;
+    border-top-style: none;
+}
+
+table#person {
+}
+
+#posters-title {
+    grid-area: posters-title;
+}
+
+h1#blog-title {
+    grid-area: blog-title;
+}
+
+a.poster {
+    display: block;
+    color: #000000;
+}
+
+article {
+    grid-area: 2 / 3 / 3 / 4;
+}
