@@ -7,7 +7,7 @@ Datum: 1987-08-19
 ---
 ### Das Opfer
 
-![Kiomars Javadi](/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage.jpeg)
+![Kiomars Javadi]({{ site.baseurl }}/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage.jpeg)
 
 Opfer war der 20-jährige iranische Flüchtling Kiomars Javadi, der in Deutschland Antrag auf Asyl gestellt hatte. Er suchte hier Zuflucht vor der politischen Unterdrückung in seinem Heimatland. Als Asylsuchender wurde er zwangsweise im Lager in der ehemaligen Thiepval-Kaserne untergebracht.
 Kiomars war das einzige Kind seines Vaters, der seinen Sohn schweren Herzens nach Europa gehen ließ: „Ich dachte in Europa wird er es besser haben als hier“, sagte er später zu einem Freund von Kiomars. „Darum ließ ich ihn gehen“.
@@ -27,14 +27,14 @@ Rolf Olderog (CDU), damals Bundestagsabgeordneter, sagte am 4. Oktober 1985 in e
 
 Am 19. August 1987 besuchte der 20-jährige Kiomars Javadi den heute nicht mehr existierenden Tübinger Supermarkt der „Pfannkuch“-Kette in der Karlsstraße, um sich etwas zu Trinken zu kaufen.
 
-![Tatort Tübingen Kiomars Javadi](/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-tatort.jpeg)
+![Tatort Tübingen Kiomars Javadi]({{ site.baseurl }}/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-tatort.jpeg)
 
 An der Kasse sprach ihn ein Angestellter an, dass er einen Einkaufswagen, den er im Laden abgestellt habe, wieder mit nach draußen nehmen solle. Kiomars versuchte zu erklären, dass er nichts mit dem Wagen zu tun habe. Ein Streitgespräch entspann sich. Daraufhin wurde Kiomars nach Augenzeugenberichten von einem Angestellten von hinten gepackt und gegen seinen Willen in einen Kellerraum verschleppt. Eine Kundin, die vor Javadi an der Kasse stand, gab später bei der Staatsanwaltschaft zu Protokoll: „Sie ließen den Ausländer gar nicht zu Wort kommen. Sie haben ihn von hinten gepackt, so dass seine Füße den Boden nicht mehr erreichten und gegen seinen Willen nach hinten getragen.“
 
 Im Keller konnte er sich offenbar durch einen Biss in den Finger des Angestellten befreien. Zuvor wurde er von dem Angestellten vermutlich misshandelt, denn dieser gestand später, einen Gummiknüppel „fachgerecht gehandhabt“ zu haben. Nach dem Tod von Kiomars Javadi fand die Polizei auch einen Gummiknüppel im Müllcontainer des Supermarkts.
 Als die Tür durch den Filialleiter geöffnet wurde, floh Kiomars in den Hinterhof in der Wöhrdstraße.
 
-![Tatort Tübingen Kiomars Javadi](/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-tatort-2.jpeg)
+![Tatort Tübingen Kiomars Javadi]({{ site.baseurl }}/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-tatort-2.jpeg)
 
 Hier wurde er gegen 17 Uhr von drei Supermarktangestellten gestellt. Er wurde mit Hilfe des Filialleiters gepackt und auf den Boden geworfen und mit dem Gesicht nach unten festgehalten. Der 18-jährige Lehrling Andreas U. nahm das Opfer in den Würgegriff, während der Filialleiter ihm mit einem „schmerzhaften Hebelgriff aus der Karatetechnik“, die Beine verdrehte.
 Insgesamt 18 Minuten lang wurde Kiomars nicht aus dem Würgegriff freigegeben. Dies geschah vor den Augen von mindestens 15 gaffenden Zuschauer/innen (nach anderen Berichten sogar 30). Bis auf ein älteres Ehepaar fühlte sich keiner genötigt Kiomars zu helfen und einzuschreiten. Der Zeuge Jack Lohmann berichtete:
@@ -44,7 +44,7 @@ Insgesamt 18 Minuten lang wurde Kiomars nicht aus dem Würgegriff freigegeben. D
 Laut Gerichtsmediziner Volker Schmidt war Kiomars Javadi bereits nach vier bis sechs Minuten tot gewesen. Die beiden Täter hatten also die meiste Zeit nur noch einen Toten im Würgegriff. Nach 18 Minuten traf die Polizei ein und legte dem Toten noch Handschellen an bis der Krankenwagen kam.
 Der Notarzt Dr. Warth berichtete: *„Der Befund bei Übernahme war, dass der Patient weite, lichtstarre Pupillen hatte. Es bestand Herzstillstand, Atemstillstand. Er war bereits klinisch tot.”*
 
-![Kiomars im Sarg](/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-sarg.jpeg)
+![Kiomars im Sarg]({{ site.baseurl }}/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-sarg.jpeg)
 
 Unmittelbar nach dem Tod wurde offenbar ein Alibi für die beiden Haupttäter konstruiert, wonach Kiomars beim Ladendiebstahl ertappt worden sei. Man präsentierte der Polizei einen Einkaufswagen, den das Opfer angeblich benutzt haben soll, mit Lebensmitteln, die vorgeblich gestohlen wurden. Jedoch fanden sich keine Fingerabdrücke von Kiomars Javadi auf den Lebensmitteln. Echte Ladendiebe verwenden auch nie Einkaufswagen zum Diebstahl. Angeblich habe sich Javadi einen Einkaufswagen mit Ware voll gestopft und versucht durch die Hintertür zu fliehen.
 
@@ -106,7 +106,7 @@ Der bekannte Autor und ehemalige NS-Verfolgte Erich Fried (1921-1988) verfasste 
 
 Die Lokalzeitung „Schwäbisches Tagblatt“ korrigierte nie ihre Version, wonach das Opfer wegen des Ladendiebstahls erwürgt wurde. Obwohl die Täter damals selbst bestätigten, dass es sich um keinen Ladendiebstahl gehandelt habe.
 
-![Tagblatt zu Mord an Kiomars Javadi](/assets/img/kiomars-javadi-tagblatt.jpeg)
+![Tagblatt zu Mord an Kiomars Javadi]({{ site.baseurl }}/assets/img/kiomars-javadi-tagblatt.jpeg)
 
 Überhaupt war die Berichterstattung der Medien sehr mangelhaft und verzerrt. Rahim Shirmahd kritisiert den „Mord an einem Toten“:
 
@@ -114,13 +114,13 @@ Die Lokalzeitung „Schwäbisches Tagblatt“ korrigierte nie ihre Version, wona
 
 Trotzdem vergab die Journalist/innen-Gewerkschaft IG-Medien ihren „Journalistenpreis ‘87“ an die Mitarbeiter/innen des „Schwäbischen Tagblattes“ für die „gründliche Recherche“ und „subjektive Realitätsabbildung“.
 
-![Kiomars Javadi und Ehefrau Marjan](/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-ehefrau.jpeg)
+![Kiomars Javadi und Ehefrau Marjan]({{ site.baseurl }}/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-ehefrau.jpeg)
 
 Zurück ließ Javadi seine zwei Jahre jüngere Ehefrau Marjan. Als sie vom Heim in eine Sozialwohnung zog, gab es Proteste der Nachbarn, die sagten: „Wir wollen nicht, dass das hier zu einem Puff wird“. Erst auf Druck der Behörden wurde ihr Einzug akzeptiert – allerdings wurden bei ihr dann später Fensterscheiben eingeworfen. Nach dem enttäuschenden Ende des juristischen Verfahrens verließ Marjan Javadi Tübingen und kehrte schließlich wieder in den Iran zurück.
 
 Zu dem Mord an Kiomars Javadi produzierte 1987/90 der Javadi-Freund und Filmemacher Rahim Shirmahd einen 20-minütigen Film in Schwarzweiß mit dem Titel „18 Minuten Zivilcourage“. Der Regisseur wurde nach seiner Dokumentation mehrmals bei seiner Jobsuche mit Hinweis auf diese Arbeit abgelehnt.
 
-![18 Minuten Zivilcourage Intro](/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-intro.jpeg)
+![18 Minuten Zivilcourage Intro]({{ site.baseurl }}/assets/img/kiomars-javadi-screenshot-18-minuten-zivilcourage-intro.jpeg)
 
 Die Stadt hat nie eine Tafel oder Sonstiges am Tatort angebracht, was an den Mord erinnert. Es gab aber immer wieder Versuche aus der Zivilgesellschaft an den Fall von Kiomars Javadi zu erinnern. Zuletzt gab es 2007 eine Unterschriften-Liste, die forderte:
 
@@ -134,7 +134,7 @@ Der bereits mehrfach zitierte Rahim Shirmahd schreibt: „Immer wieder muss ich 
 
 Zum 30. Jahrestag gab es am Epplehaus Tübingen ein Gedenk-Transparent:
 
-![Gedenk-Transparent zum 30. Jahrestag, Epplehaus Tübingen](/assets/img/kiomars-javadi-epplehaus.jpeg)
+![Gedenk-Transparent zum 30. Jahrestag, Epplehaus Tübingen]({{ site.baseurl }}/assets/img/kiomars-javadi-epplehaus.jpeg)
 
 ### Literatur & Quellen
 

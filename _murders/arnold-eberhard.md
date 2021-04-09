@@ -15,7 +15,7 @@ Bereits drei Tage vor dem Spiel am Sonntag, den 21. Oktober 2013, waren auch von
 Die Skinheads fuhren nach dem Spiel mit Autos zum Bahnhof. Drei bis vier Täter entschlossen sich die Ulmer Fans mit einem Molotow-Cocktail anzugreifen. Sie zapften Benzin aus einer Maschine auf der Baustelle des Solitude-Areals in eine mitgebrachte Bierflasche.
 Der Haupttäter, ein 20-jähriger Azubi aus Ludwigsburg, trug den Molotow-Cocktail unter der Jacke versteckt in den Bahnhof.
 
-![Tator Bahnhof Ludwigsburg](/assets/img/arnold-bernhard-tatort-bahnhof-ludwigsburg.jpg)
+![Tator Bahnhof Ludwigsburg]({{ site.baseurl }}/assets/img/arnold-bernhard-tatort-bahnhof-ludwigsburg.jpg)
 
 Die Ulmer Fans warteten auf Bahnsteig 3, dem Mittelbahnsteig, auf die S-Bahn nach Stuttgart. Währenddessen betrat eine zehnköpfige Skinheadgruppe den Bahnsteig 1
 Der 20-jährige Azubi und ein 19-jähriger, der in der Rundsporthalle bereits eine Schlägerei angezettelt hatte, versteckten sich hinter einer Reklamewand, zogen Masken über und zündeten den Brandsatz an. Der 20-jährige Haupttäter warf dann den Brandsatz etwa 15 Meter auf etwa 40 Ulmer Fans, die auf Gleis 2 und 3 warteten. Insgesamt hielten sich 2-300 Reisende auf dem Mittelbahnsteig auf. Davon flohen in Panik 100 Personen, 40 Fans und 60 andere Passant/innen. Der Molotowcocktail-Werfer und drei weitere Skinheads im Alter von 16, 18 und 19 Jahren, stürmten über das Gleis und griffen die Fliehenden an. Sie warfen mit Steinen aus dem Gleisbett auf die Fliehenden und drohten den Ulmer Fans sie weiter zu verfolgen.
@@ -36,4 +36,4 @@ Nach der Tat sprach der damalige Polizeidirektor Dietmar Markus von einer „man
 
 Am 21. Oktober 2013 verteilte die Gruppe „Antifaschistische Aktion Kreis Ludwigsburg“ am Bahnhof mehrere hundert Flyer an Passant/innen, um an den Tod von Arnold Eberhard zu erinnern.
 
-![Gedenkflyer](/assets/img/eberhard-arnold-gedenkflyer-klein.jpeg)
+![Gedenkflyer]({{ site.baseurl }}/assets/img/eberhard-arnold-gedenkflyer-klein.jpeg)

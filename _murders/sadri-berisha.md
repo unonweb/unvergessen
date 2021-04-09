@@ -12,14 +12,14 @@ Diese Tat hatte zwei Opfer, einen Toten und einen Schwerverletzten.
 
 #### Sadri Berisha
 
-![Ausriss aus Stern 17-1993](/assets/img/sadri-berisha-ausriss-stern.jpg)
+![Ausriss aus Stern 17-1993]({{ site.baseurl }}/assets/img/sadri-berisha-ausriss-stern.jpg)
 
 Der Tote war Sadri Berisha (56) und der Schwerverletzte Sahit Elezaj oder Elezay (46). Beide kamen aus dem damaligen Jugoslawien und gehörten dort zur Minderheit der Kosovo-Albaner.
 Berisha und Elezay arbeiteten – Berisha seit 21 Jahren – bei einer Baufirma in Kemnat und schickten regelmäßig Geld zu ihren Familien in den Kosovo. Sadri Berisha hatte drei Kinder und überwies die Hälfte seines Lohnes an seine Familie in der Heimat.
 
 #### Elizay, Sahit
 
-![Ausriss aus Stern 17-1993](/assets/img/elizay-sahit-ausriss-stern.jpg)
+![Ausriss aus Stern 17-1993]({{ site.baseurl }}/assets/img/elizay-sahit-ausriss-stern.jpg)
 
 Sahit Elezaj war zu dieser Zeit Vater von sieben Kindern im Alter zwischen zwei und 16 Jahren. Der Überlebende Elezaj durfte nach der Tat seine Familie nach Kemnat holen.
 
@@ -75,7 +75,7 @@ Am 13. Mai 1993 verkündete der Vorsitzende Richter Hans-Alfred Blumenstein das 
 
 Am 11. Juli 1992 fand in Reaktion auf den Mord die erste Demonstration von etwa 300 Menschen in Kemnat statt. Bei einer Pressekonferenz der Stadtverwaltung von Ostfildern am 16. Juli 1992 mit dem damaligen ersten Bürgermeister in Ostfildern, Herbert Rösch, sagte dieser, dass es in Ostfildern keine Skinhead- oder rechtsradikale Szene, sondern nur Einzeltäter gäbe. Rösch sagte aber an anderer Stelle immerhin auch: „Mit Scham und Zorn müssen wir zur Kenntnis nehmen, daß sich unsere ausländischen Mitbürger bei uns nicht mehr sicher fühlen können“.
 
-![Demo nach Mord - Ausriss Karlsruher Nachrichten vom 14.05.1993](/assets/img/sadri-berisha-demo-nach-mord-ausriss-karlsruher-nachrichten-14-05-1993.jpg)
+![Demo nach Mord - Ausriss Karlsruher Nachrichten vom 14.05.1993]({{ site.baseurl }}/assets/img/sadri-berisha-demo-nach-mord-ausriss-karlsruher-nachrichten-14-05-1993.jpg)
 
 Am 18. Juli 1992 folgte ein Schweigemarsch durch Kemnat und am 25. Juli 1992 fand eine weitere Demonstration mit 350 TeilnehmerInnen statt.
 Außerdem gab es Spendenaktionen für die Angehörigen der beiden Opfer.

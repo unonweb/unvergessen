@@ -29,7 +29,7 @@ Es gab auch 2013 ein Gedenken von Antifaschist/innen am Todestag von Weickum.
 
 Am 19. Juli 2015 gedachten Antifaschist*innen aus Heilbronn am Eppinger Bahnhof an Werner Weickum. Sie legten Nelken am Tatort nieder und zündeten Kerzen an.
 
-![Gedenken an Werner Weickum 2006](/assets/img/werner-weickum-gedenken-2016-a.jpg)
+![Gedenken an Werner Weickum 2006]({{ site.baseurl }}/assets/img/werner-weickum-gedenken-2016-a.jpg)
 
 Auch am 19. Juli 2016 gedachten zum 20. Jahrestag des Mordes an Weickum. Dazu gibt es auch ein [Video](https://www.youtube.com/watch?v=8cAN5rd5A1I).
 

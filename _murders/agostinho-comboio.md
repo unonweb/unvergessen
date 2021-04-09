@@ -45,7 +45,7 @@ Nach dem Prozess bot die Witwe des Opfers, die als Nebenklägerin auftrat, dem T
 
 Es kam nach der Tat zu einem Trauermarsch für den Ermordeten. Dabei provozierten drei Neonazis mit dem Hitlergruß und Beschimpfungen. Als die anwesende Polizei nicht reagierte, vertrieb ein Teil der DemonstrantInnen die Neonazis selber.
 
-![Demo in Friedrichshafen am 22.06.1991](assets/agostinho-comboio-demo-friedrichshafen-22-06-1991.jpg)
+![Demo in Friedrichshafen am 22.06.1991]({{ site.baseurl }}/assets/agostinho-comboio-demo-friedrichshafen-22-06-1991.jpg)
 
 In der regionalen Tageszeitung „Schwäbische Zeitung“ schalteten der „Arbeitskreis Asyl“ und andere Gruppen Traueranzeigen
 

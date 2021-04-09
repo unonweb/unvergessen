@@ -10,13 +10,13 @@ Datum: 2007-07-25
 
 Das Opfer war die Polizistin Michèle Kiesewetter. Kiesewetter wurde am 10. Oktober 1984 in Neuhaus in Thüringen geboren und wuchs in Oberweißbach auf. Sie begann am 1. März 2003 als 19-Jährige eine Polizei-Ausbildung in Baden-Württemberg. Nach ihrer Versetzung zu einer BFE-Einheit in Böblingen zog sie 2005 nach Nufringen, wo sie mit einer Freundin zusammen in einer WG lebte.
 
-![Michele Kiesewetter privat](/assets/img/michele-kiesewetter-privat.jpeg)
+![Michele Kiesewetter privat]({{ site.baseurl }}/assets/img/michele-kiesewetter-privat.jpeg)
 
 ### Die Tat
 
 Am 25. April 2007 wurde in Heilbronn die Polizistin Michèle Kiesewetter erschossen und ihr 24-jähriger Kollege Martin A. wurde schwer verletzt. Täter waren vermutlich die beiden seit 1998 untergetauchten Neonazis Uwe Mundlos und Uwe Bönhardt, die zuletzt in Zwickau beheimatet waren.
 
-![NSU Trio Fahndungsplakat](/assets/img/michele-kiesewetter-nsu-fahndungsplakat.jpeg)
+![NSU Trio Fahndungsplakat]({{ site.baseurl }}/assets/img/michele-kiesewetter-nsu-fahndungsplakat.jpeg)
 
 Während einer Vesper-Pause der beiden Beamten auf der Theresienwiese schlichen sich die Täter an den Streifenwagen heran und schossen der jungen Frau und ihrem Kollegen von hinten in den Kopf.
 Kiesewetter war *„im Rahmen des sogenannten Konzeptionseinsatzes ›Sichere City‹ zusammen mit weiteren Kollegen der Bereitschaftspolizei in Heilbronn (eingeteilt). Es gab keinen konkreten Auftrag für die Beamten, die ab 13.00 Uhr auf Streife gewesen sind. Sie sollten in der Heilbronner Innenstadt polizeiliche Präsenz zeigen und Kontrollen von verdächtigen Personen und Fahrzeugen durchführen.“* (Polizei Heilbronn)
@@ -46,5 +46,5 @@ Andere Thesen verweisen auf zwei Kollegen von Kiesewetter mit einer braunen Verg
 
 Heute existiert in der Nähe des Tatorts ein Gedenkstein.
 
-![Erinnerungstafel Heilbronn](/assets/img/michele-kiesewetter-erinnerungs-tafel-heilbronn.jpeg)
+![Erinnerungstafel Heilbronn]({{ site.baseurl }}/assets/img/michele-kiesewetter-erinnerungs-tafel-heilbronn.jpeg)
 

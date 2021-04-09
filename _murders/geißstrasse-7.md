@@ -16,12 +16,12 @@ Heute sind die Identitäten der Überlebenden nicht mehr bekannt.
 
 Am 16. März 1994 brannte das um 1900 oder 1908 erbaute fünfstöckige Haus Geißstraße 7 in der Stuttgarter Altstadt. Der Brand war die größte Katastrophe in Stuttgart seit dem Zweiten Weltkrieg. Es kamen sieben Menschen ums Leben, 16 weitere wurden verletzt.
 
-![Brand in der Geißstrasse 7 - Stuttgarter Zeitung - Bild 1](/assets/img/geißstrasse-7-brand-1991-stuttgarter-zeitung-14-03-14.jpg)
+![Brand in der Geißstrasse 7 - Stuttgarter Zeitung - Bild 1]({{ site.baseurl }}/assets/img/geißstrasse-7-brand-1991-stuttgarter-zeitung-14-03-14.jpg)
 
 In dem Haus lebten 50 Menschen mit zum Teil dubiosen Mitverträgen. Mieter/innen waren vor allem Ausländer/innen, ein Teil davon ohne sicheren Aufenrechtshaltsstatus („illegal“).
 Ein psychisch Kranker hatte in der Tatnacht Feuer im hölzernen Treppenhaus gelegt. Die Feuerwehr traf 3.36 Uhr ein. *„Das ganze Treppenhaus brannte wie eine Fackel […] an den Fenstersimsen hingen Leute, die um Hilfe schrien“*, so später ein Retter. Sechs Menschen starben direkt durch den Brand und eine Frau sprang neben ein aufgespanntes Sprungkissen, wodurch sie starb. Weitere 16 Menschen wurden mit Drehleitern und Sprungkissen teils schwer verletzt gerettet.
 
-![Brand in der Geißstrasse 7 - Stuttgarter Zeitung - Bild 2](/assets/img/geißstrasse-7-brand-1991-stuttgarter-zeitung-2-14-03-14.jpg)
+![Brand in der Geißstrasse 7 - Stuttgarter Zeitung - Bild 2]({{ site.baseurl }}/assets/img/geißstrasse-7-brand-1991-stuttgarter-zeitung-2-14-03-14.jpg)
 
 ### Ermittlung & Prozess
 
@@ -40,7 +40,7 @@ Zusätzlich gab es noch einen weiteren Prozess gegen den Pächter und seinen Unt
 
 Im Juni 1994 wurde die Stiftung Geißstraße 7 gegründet, die an den Brand erinnern soll. Die Stiftung hat ihren Sitz in dem renovierten Haus in der Geißstraße 7.
 
-![Gedenktafel an der Geißstraße 7](/assets/img/geißstrasse-7-gedenktafel.jpg)
+![Gedenktafel an der Geißstraße 7]({{ site.baseurl }}/assets/img/geißstrasse-7-gedenktafel.jpg)
 
 Am Tatort findet sich eine Gedenktafel mit der Aufschrift:
 

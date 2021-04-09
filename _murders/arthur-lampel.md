@@ -30,7 +30,7 @@ Am 18. September 2002 wurde das Urteil gesprochen. Der vorbestrafte Skinhead wur
 
 Die DGB-Regionalgruppe Frankfurt-Rhein-Main schaltete eine Gedenk-Anzeige für Arthur Lampel.
 
-![Gedenk Anzeige DGB 09.09.2001](/assets/img/arthur-lampel-dgb-anzeige-09-09-01.gif)
+![Gedenk Anzeige DGB 09.09.2001]({{ site.baseurl }}/assets/img/arthur-lampel-dgb-anzeige-09-09-01.gif)
 
 ### Literatur & Quellen
 

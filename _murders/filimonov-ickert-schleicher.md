@@ -16,7 +16,7 @@ Auch Waldemar Ickert war Schüler, der 17-jährige Aleksander Schleicher dagegen
 
 In der Nacht vom 19. auf den 20. Dezember 2003 erstach in Heidenheim an der Brenz vor der Diskothek „K2“ der 17-jährige Neonazi Leonhard Schmidt die drei Spätaussiedler-Jugendlichen Viktor Filimonovim (15), Waldemar Ickert (16) und Aleksander Schleicher (17).
 
-![Tatort: K2 Disko](/assets/img/filimonov-ickert-schleicher-k2-disko.jpeg)
+![Tatort: K2 Disko]({{ site.baseurl }}/assets/img/filimonov-ickert-schleicher-k2-disko.jpeg)
 
 Der Täter kam am 19. Dezember gegen 22.30 Uhr zur Diskothek „K2“ in Heidenheimer Innenstadt, die vor allem Punks, sowie linksorientierte Schüler/innen und Student/innen anzieht. Die Location bezeichnet sich selbst als „Alternativen Club für unkommerzielle Ansprüche“.
 Hier wurde er aufgrund seiner Zugehörigkeit zur rechten Szene an der Tür und eines Hausverbots abgewiesen. Er war bereits früher aufgefallen, unter anderem weil er wenige Wochen zuvor mit einer rechten Gruppe vor der Diskothek einen Punk angegriffen hatte. Trotzdem tauchte der Täter mit einem Mädchen und einem Freund dort auf und bestand darauf, hinein gelassen zu werden. Der Clubbetreiber rief daraufhin die Polizei. Da Leonhard Schmidt trotz Hausverbots das Lokal betreten wollte, wurde er von der Polizei mit einem Platzverweis bedacht und es wurden von den Beamten seine Personalien aufgenommen. Danach entfernte er sich wieder.
@@ -37,7 +37,7 @@ Deswegen lief ein Verfahren wegen gefährlicher Körperverletzung gegen ihn.
 
 ### Ermittlung & Prozess
 
-![Täter Leonhard Schmidth - Ausriss Heidenheimer Zeitung vom 21.08.2008](/assets/img/filimonov-ickert-schleicher-taeter-leonhard-schmidt-ausriss-heidenheimer-zeitung-21-08-08.jpeg)
+![Täter Leonhard Schmidth - Ausriss Heidenheimer Zeitung vom 21.08.2008]({{ site.baseurl }}/assets/img/filimonov-ickert-schleicher-taeter-leonhard-schmidt-ausriss-heidenheimer-zeitung-21-08-08.jpeg)
 
 Nach sieben Monaten Einzelhaft, begann am 13. Juli 2004 vor dem Ellwanger Landgericht der Prozess gegen Leonhard Schmidt, der auf vier Tage angesetzt wurde. Der Täter wurde wegen Totschlags in drei Fällen angeklagt. Schmidt wird von dem Rechtsanwalt Peter Bretzger aus Herbrechtingen vor Gericht vertreten. Der Vorsitzende Richter war Hans-Jochen Neun, der Oberstaatsanwalt war Harald Stephan. Den anwesenden Angehörigen der Opfer standen zwei Anwälte zur Seite, auch um ihnen den Ablauf des Prozesses zu erklären.
 Auf Grund von Jugendschutzbestimmungen und aus Sicherheitsgründen fand der Prozess unter Ausschluss der Öffentlichkeit statt.
@@ -61,11 +61,11 @@ Der Geschäftsführer der Diskothek, Volker Spellenberg, schilderte zwei Tage na
 
 Am 20. Dezember 2003, dem Abend nach dem Dreifach-Mord, kamen 2-400 Menschen zu einem spontanen Gedenkmarsch und einer Mahnwache in der Innenstadt nach Heidenheim. Es reisten auch antifaschistischen Gruppen aus Stuttgart und Göppingen an.
 
-![Demo in Heidenheim](/assets/img/filimonov-ickert-schleicher-demo-heidenheim.jpeg)
+![Demo in Heidenheim]({{ site.baseurl }}/assets/img/filimonov-ickert-schleicher-demo-heidenheim.jpeg)
 
 Die Demonstrant/innen zogen in Begleitung der Polizei bei strömenden Regen durch die Fußgängerzone und versammelten sich anschließend am Tatort. Hier wurden Blumen niedergelegt und Kerzen angezündet.
 
-![Gedenken Heidenheim](/assets/img/filimonov-ickert-schleicher-gedenken-heidenheim.jpeg)
+![Gedenken Heidenheim]({{ site.baseurl }}/assets/img/filimonov-ickert-schleicher-gedenken-heidenheim.jpeg)
 
 Das Heidenheimer Stadtoberhaupt meinte zu der Demonstration, es sei bedauerlich, dass diese Kundgebung von auswärtigen Gruppen für politische Zwecke missbraucht worden sei.
 
@@ -89,7 +89,7 @@ Da werden rechte Übergriffe zu „Bandenkriegen“ und „altersüblichen Grupp
 
 Ein Jahr nach der Tat machen sich Hunderte in einem Lichterzug zum Tatort auf, wo im Rahmen einer Mahnwache eine kleine Gedenktafel enthüllt wurde. Sie hatte folgenden nichtssagenden Text:
 
-![Gedenktafel Heidenheim](/assets/img/filimonov-ickert-schleicher-gedenkentafel.jpeg)
+![Gedenktafel Heidenheim]({{ site.baseurl }}/assets/img/filimonov-ickert-schleicher-gedenkentafel.jpeg)
 
 > Heidenheims Jugendliche gedenken
 > Alexander
@@ -102,7 +102,7 @@ An den Jahrestagen des Dreifachmordes hielt die örtliche Antifa-Gruppe zeitweis
 
 Auch im Dezember 2013 gab es eine Gedenk-Demo mit 60-70 TeilnehmerInnen.
 
-![Gedenkdemo 14.12.2013](/assets/img/filimonov-ickert-schleicher-gedenkdemo-heidenheim-14-12-13.jpeg)
+![Gedenkdemo 14.12.2013]({{ site.baseurl }}/assets/img/filimonov-ickert-schleicher-gedenkdemo-heidenheim-14-12-13.jpeg)
 
 Im August 2012 nahm sich der Täter und ehemalige Neonazi Leonard Schmidt im Alter von 26 Jahren in seiner Berliner Wohnung das Leben. Im Sommer 2011 war er nach acht Jahren Haft entlassen worden. Die Motive für den Freitod steckten offenbar auch in dem dreifachen Mord. Seine Eltern gaben an:
 
