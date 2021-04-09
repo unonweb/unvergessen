@@ -19,7 +19,7 @@ Der offenbar schwer alkoholisierte Mario Radovanovic – der Gerichts-Mediziner 
 
 Bereits in den Jahren zuvor war es zu einem deutlichen Anstieg rechter Gewalt in der Bodensee-Region gekommen, der durch die Vereinigung von BRD und DDR und den damit einhergehenden nationalistischen Taumel noch weiter angeheizt wurde.
 
-![Täter Mario R.](/assets/img/agostinho-comboio-taeter-mario-r.jpeg)
+![Täter Mario R.]({{ site.baseurl }}/assets/img/agostinho-comboio-taeter-mario-r.jpeg)
 
 Der Täter Mario Radovanovic wurde in einem Flugblatt des „Antifaschistischen Bündnis Friedrichshafen vom 8. Februar 1992 als „stadtbekannter Neonazi“ beschrieben. Demnach soll er an Angriffen auf das Jugendzentrum in Ravensburg im Jahr 1989 um „Punks zu klatschen“, den linken Treffpunkt „Räuberhöhle“ in Ravensburg im Herbst 1990 und auf das Jugendhaus in Friedrichshafen im Februar 1991, wo er ein Tränengasspray einsetzte, beteiligt gewesen sein. Insgesamt war er vor der Tat in rund 20 Schlägereien und Übergriffe beteiligt gewesen. Deswegen war er bereits wegen schwerer Körperverletzung und Sachbeschädigung vorbestraft.
 Außerdem verteilte er im Jugendzentrum Friedrichshafen rechte Propaganda und fungierte am 23. Mai 1989 als Ordner bei einer Wahlkundgebung der extrem rechten Partei „Deutsche Volksunion“ (DVU) in Friedrichshafen. Zudem hatte er Kontakte zur „Nationalistischen Front“ (NF), einer 1994 verbotenen Neonazi-Partei, und zur NPD.
