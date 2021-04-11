@@ -12,7 +12,7 @@ title: "Homepage"
 	
 	<!-- Here the URL is added to an HTML attribute in order to retrieve it later with JS -->
 	<div class="poster" data-link="{{ site.baseurl }}{{ murder.url }}">
-		<table id="person">
+		<table class="person">
 			{% for name in murder.Name %}
 				<tr>
 					<th>Name:</th>
@@ -20,14 +20,14 @@ title: "Homepage"
 				</tr>
 				<tr>
 					{% if murder.Alter[forloop.index0] %}
-					<th class="age">Alter:</th>
+					<th class="person-age">Alter:</th>
 					<td>{{ murder.Alter[forloop.index0] }}</td>
 					{% endif %}
 				</tr>
 			{% endfor %}
 		</table>
 		<hr>
-		<table id="place-time">
+		<table class="place-time">
 			<tr>
 				<th>Tatort:</th>
 				<td>{{ murder.Tatort }}</td>

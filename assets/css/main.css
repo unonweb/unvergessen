@@ -10,7 +10,7 @@ header {
 
 body {
     display: grid;
-    grid-template-columns: 100px 1fr minmax(150px, 800px) 1fr 100px;
+    grid-template-columns: 1fr 120px 800px 120px 1fr;
     grid-template-rows: 120px 100px auto 100px 100px 100px;
     grid-template-areas: '. . header . .' '. . posters-title . .' '. posters posters posters .' '. . blog-title . .' '. . blog . .' '. footer footer footer .';
     grid-area: header;
@@ -30,16 +30,17 @@ aside > input {
 }
 
 aside {
-    grid-area: aside;
+    grid-area: 5 / 4 / 6 / 5;
 }
 
 section#posters {
     grid-area: posters;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
 }
 
 section#blog {
@@ -68,7 +69,7 @@ dd {
     margin-top: 1px;
 }
 
-th.age {
+th.person-age {
     font-weight: normal;
 }
 
@@ -82,12 +83,12 @@ tr.table-separator {
     height: 10px;
 }
 
-table#place-time {
+table.place-time {
     margin-top: 10px;
     border-top-style: none;
 }
 
-table#person {
+table.person {
 }
 
 #posters-title {
