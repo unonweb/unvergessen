@@ -33,19 +33,19 @@ aside {
     grid-area: 5 / 4 / 6 / 5;
 }
 
-section#blog {
-    grid-area: blog;
+
+h1 {
+    margin-bottom: 20px;
+    margin-top: 35px;
 }
 
-div.poster {
-    background-color: #fffbfb;
-    padding: 6px 10px;
-    border: 1px solid #000000;
-    border-radius: 11px;
-    height: fit-content;
-    margin: 5px;
-    cursor: pointer;
-    min-width: fit-content;
+h3 {
+    margin-bottom: 15px;
+    margin-top: 3px;
+}
+
+section#blog {
+    grid-area: blog;
 }
 
 dt {
@@ -60,25 +60,6 @@ dd {
     margin-top: 1px;
 }
 
-th.person-age {
-    font-weight: normal;
-}
-
-table {
-    border-collapse: collapse;
-}
-
-tr.table-separator {
-    border-top-width: 3px;
-    border-top-style: solid;
-    height: 10px;
-}
-
-table.place-time {
-    margin-top: 10px;
-    border-top-style: none;
-}
-
 #posters-title {
     grid-area: posters-title;
 }
@@ -87,16 +68,12 @@ h1#blog-title {
     grid-area: blog-title;
 }
 
-a.poster {
-    display: block;
-    color: #000000;
-}
-
 article {
     grid-area: 2 / 3 / 3 / 4;
 }
 
-/* GALLERY */
+/* --- GALLERY --- */
+
 section#gallery {
     position: relative;
     grid-area: posters;
@@ -136,21 +113,50 @@ section#gallery {
     left: 0px;
 }
 
+div.poster {
+    background-color: #fffbfb;
+    padding: 6px 10px;
+    border: 1px solid #000000;
+    border-radius: 11px;
+    height: fit-content;
+    margin: 5px;
+    cursor: pointer;
+    min-width: fit-content;
+}
+
 .person-name {
     font-weight: bold;
     color: #760505;
 }
 
-h1 {
-    margin-bottom: 20px;
-    margin-top: 35px;
+th.person-age {
+    font-weight: normal;
 }
 
-h3 {
-    margin-bottom: 15px;
-    margin-top: 3px;
+table {
+    border-collapse: collapse;
 }
+
+tr.table-separator {
+    border-top-width: 3px;
+    border-top-style: solid;
+    height: 10px;
+}
+
+table.place-time {
+    margin-top: 10px;
+    border-top-style: none;
+}
+
+/* --- BLOG --- */
 
 ul.post-list {
     margin-top: 0px;
+}
+
+@font-face {
+	font-family: 'Abel';
+	font-style: normal;
+	font-weight: 400;
+	src: url('/assets/fonts/Abel-Regular.ttf') format('truetype');
 }
