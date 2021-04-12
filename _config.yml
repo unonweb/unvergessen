@@ -5,5 +5,6 @@ description: "Opfer rechter Gewalt in Baden-Württemberg"
 collections:
   murders:
     output: true
-exclude: [backup]
-keep_files: [assets]
+exclude: [backup, assets]
+theme: null
+keep_files: [assets] # The paths are relative to the destination.  

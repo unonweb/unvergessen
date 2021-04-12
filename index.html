@@ -6,40 +6,43 @@ title: "Homepage"
 
 <h1 id="posters-title">Opfer rechter Gewalt in Baden-Württemberg</h1>
 <!-- Link to murder cases -->
-<section id="posters">
-	{% assign sorted = site.murders | sort_natural: "Datum" %}
-	{% for murder in sorted %}
-	
-	<!-- Here the URL is added to an HTML attribute in order to retrieve it later with JS -->
-	<div class="poster" data-link="{{ site.baseurl }}{{ murder.url }}">
-		<table class="person">
-			{% for name in murder.Name %}
-				<tr>
-					<th>Name:</th>
-					<td class="person-name">{{ name }}</td>
-				</tr>
-				<tr>
+
+<section id="gallery">
+	<a class="arrow-controls" id="arrow-left">&#10095;</a>
+	<div id="poster-wrapper">
+
+		<!-- Sort collection by date -->
+		{% assign murders_sorted = site.murders | sort_natural: "Datum" %}
+		{% for murder in murders_sorted %}
+		
+		<!-- Here the URL is added to an HTML attribute in order to retrieve it later with JS -->
+		<div class="poster" data-link="{{ site.baseurl }}{{ murder.url }}" id="{{ forloop.index0 }}">
+			<div class="person">
+				{% for name in murder.Name %}
+					<div class="person-name">{{ name }}</div>
 					{% if murder.Alter[forloop.index0] %}
-					<th class="person-age">Alter:</th>
-					<td>{{ murder.Alter[forloop.index0] }}</td>
+						<div class="person-age">{{ murder.Alter[forloop.index0] }} Jahre</div>
 					{% endif %}
+				{% endfor %}
+				</div>
+			<hr>
+			<table class="place-time">
+				<tr>
+					<th>Tatort:</th>
+					<td>{{ murder.Tatort }}</td>
 				</tr>
-			{% endfor %}
-		</table>
-		<hr>
-		<table class="place-time">
-			<tr>
-				<th>Tatort:</th>
-				<td>{{ murder.Tatort }}</td>
-			</tr>
-			<tr>
-				<th>Datum:</th>
-				<td>{{ murder.Datum | date: "%d.%m.%Y" }}</td>
-			</tr>
-		</table>
+				<tr>
+					<th>Datum:</th>
+					<td>{{ murder.Datum | date: "%d.%m.%Y" }}</td>
+				</tr>
+			</table>
+		</div>
+		{% endfor %}
 	</div>
-	{% endfor %}
+	<a class="arrow-controls" id="arrow-right">&#10094;</a>
 </section>
+
+<!-- BLOG POSTS -->
 
 <h1 id="blog-title">Blog posts</h1>
 
@@ -47,9 +50,11 @@ title: "Homepage"
 	<!-- Show preview of posts -->
 		
 	<ul class="post-list">
-		{%- for post in site.posts -%}
+		{% assign posts_sorted = site.posts | sort_natural: "date" | reverse %}
+
+		{%- for post in posts_sorted -%}
 			<li>
-				{%- assign date_format = "%b %-d, %Y" -%}
+				{%- assign date_format = "%d.%m.%Y" -%}
 				<span class="post-meta">{{ post.date | date: date_format }}</span>
 				<h3>
 				<a class="post-link" href="{{ post.url | relative_url }}">
