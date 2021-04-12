@@ -1,11 +1,20 @@
+/* --- HEADER --- */
+
 header {
     grid-area: header;
-    width: 100%;
+    width: fit-content;
     background-repeat: no-repeat;
     background-position: left top;
     overflow: hidden;
     border-width: 1px;
     border-style: solid;
+}
+
+header > img {
+    object-fit: cover;
+    width: 100%;
+    object-position: left top;
+    height: 100%;
 }
 
 body {
@@ -18,13 +27,6 @@ body {
     font-family: 'Abel', sans-serif;
 }
 
-header > img {
-    object-fit: cover;
-    width: 100%;
-    object-position: left top;
-    height: 100%;
-}
-
 aside > input {
     margin-bottom: 10px;
 }
@@ -33,6 +35,24 @@ aside {
     grid-area: 5 / 4 / 6 / 5;
 }
 
+
+section#blog {
+    grid-area: blog;
+}
+
+article {
+    grid-area: 2 / 3 / 3 / 4;
+}
+
+/* --- HEADINGS --- */
+
+#blog-title {
+    grid-area: blog-title;
+}
+
+#posters-title {
+    grid-area: posters-title;
+}
 
 h1 {
     margin-bottom: 20px;
@@ -44,9 +64,7 @@ h3 {
     margin-top: 3px;
 }
 
-section#blog {
-    grid-area: blog;
-}
+/* --- TABLE GENERAL --- */
 
 dt {
     text-decoration: underline;
@@ -58,18 +76,6 @@ dt {
 dd {
     margin-bottom: 5px;
     margin-top: 1px;
-}
-
-#posters-title {
-    grid-area: posters-title;
-}
-
-h1#blog-title {
-    grid-area: blog-title;
-}
-
-article {
-    grid-area: 2 / 3 / 3 / 4;
 }
 
 /* --- GALLERY --- */

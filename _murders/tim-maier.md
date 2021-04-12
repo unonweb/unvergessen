@@ -21,6 +21,3 @@ Bei der polizeilichen Durchsuchung der Wohnung von Achim M. finden sich Hakenkre
 Das Gericht stellte 2006 im Urteil fest, dass der rechte Hintergrund der Tat nicht geleugnet werden könne und dass in den Parolen sich „dumpfe Ausländerfeindlichkeit“ ausgedrückt habe. Achim M. wurde wegen Totschlages zu zehn Jahren Haft verurteilt.
 
 Trotz dieses Urteils taucht Tim Maier bis heute nicht in der offiziellen Statistik der Todesopfer rechter Gewalt auf.
-
-### Reaktionen & Erinnerung
-
