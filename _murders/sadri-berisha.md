@@ -4,6 +4,8 @@ Name:  "Sadri Berisha"
 Alter: [56]
 Tatort: "Ostfildern-Kemnat"
 Datum: 1992-07-07
+Latitude: 48.7189
+Longitude: 9.2313
 ---
 
 ### Die Opfer

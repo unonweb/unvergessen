@@ -4,6 +4,8 @@ Name:  [ "Viktor Filimonovim", "Waldemar Ickert", "Aleksander Schleicher" ]
 Alter: [ 15, 16, 17 ]
 Tatort: "Heidenheim"
 Datum: 2003-12-19
+Latitude: 48.6765
+Longitude: 10.1551
 ---
 
 ### Die Opfer

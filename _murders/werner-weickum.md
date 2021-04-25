@@ -4,6 +4,8 @@ Name:  "Werner Weickum"
 Alter: [44]
 Tatort: "Eppingen"
 Datum: 1996-07-19
+Latitude: 49.1362
+Longitude: 8.9111
 ---
 
 ### Das Opfer

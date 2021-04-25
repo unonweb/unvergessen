@@ -4,6 +4,8 @@ Name:  "Unbekannt"
 Alter: [64]
 Tatort: "Ulm"
 Datum: 2017-05-23
+Latitude: 48.3972
+Longitude: 9.9940
 ---
 
 ### Das Opfer

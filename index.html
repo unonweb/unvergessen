@@ -1,32 +1,29 @@
 ---
-layout: default
+layout: homepage
 title: "Homepage"
 ---
 
 
-<h1 id="posters-title">Opfer rechter Gewalt in Baden-Württemberg</h1>
+<h1 id="main-title">Opfer rechter Gewalt in Baden-Württemberg</h1>
 <!-- Link to murder cases -->
 
+<section id="map-leaflet"></section>
 <section id="gallery">
-	<a class="arrow-controls" id="arrow-left">&#10095;</a>
-	<div id="poster-wrapper">
+	<a class="gallery__arrow-controls" id="gallery__arrow-left">&#10094;</a>
+	<div id="gallery__wrapper">
 
 		<!-- Sort collection by date -->
 		{% assign murders_sorted = site.murders | sort_natural: "Datum" %}
 		{% for murder in murders_sorted %}
 		
 		<!-- Here the URL is added to an HTML attribute in order to retrieve it later with JS -->
-		<div class="poster" data-link="{{ site.baseurl }}{{ murder.url }}" id="{{ forloop.index0 }}">
-			<div class="person">
+		<div class="gallery__poster" data-lon="{{ murder.Longitude }}" data-lat="{{ murder.Latitude }}">
+			<div class="gallery__person">
 				{% for name in murder.Name %}
-					<div class="person-name">{{ name }}</div>
-					{% if murder.Alter[forloop.index0] %}
-						<div class="person-age">{{ murder.Alter[forloop.index0] }} Jahre</div>
-					{% endif %}
+					<div class="gallery__person-name">{{ name }}</div>
 				{% endfor %}
 				</div>
-			<hr>
-			<table class="place-time">
+			<table class="gallery__place-time">
 				<tr>
 					<th>Tatort:</th>
 					<td>{{ murder.Tatort }}</td>
@@ -39,7 +36,7 @@ title: "Homepage"
 		</div>
 		{% endfor %}
 	</div>
-	<a class="arrow-controls" id="arrow-right">&#10094;</a>
+	<a class="gallery__arrow-controls" id="gallery__arrow-right">&#10095;</a>
 </section>
 
 <!-- BLOG POSTS -->
@@ -69,3 +66,34 @@ title: "Homepage"
 	</ul>
 
 </section>
+
+<script>
+
+	var murders = [];
+	let m = {};
+
+	{% for m in site.murders %}
+		
+		m = {};
+		
+		m.name = [];
+		{% for name in m.Name %}
+			m.name.push("{{ name }}");
+		{% endfor %}
+
+		m.age = [];
+		{% for age in m.Alter %}
+			m.age.push("{{ age }}");
+		{% endfor %}
+
+		m.place = "{{ m.Tatort }}";
+		m.lat = "{{ m.Latitude }}";
+		m.lon = "{{ m.Longitude }}";
+		m.date = "{{ m.Datum | date: '%d.%m.%Y' }}";
+		m.url = "{{ m.url }}";
+		murders.push(m)
+	{% endfor %}
+
+	console.log('index.html: ', murders);
+
+</script>

@@ -4,6 +4,8 @@ Name:  "Geißstrasse 7"
 Alter: [24, 2, 27, 4, 60, 55]
 Tatort: "Stuttgart"
 Datum: 1994-03-16
+Latitude: 48.77383
+Longitude: 9.17716
 ---
 
 ### Die Opfer

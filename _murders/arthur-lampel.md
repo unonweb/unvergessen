@@ -4,6 +4,8 @@ Name:  "Arthur Lampel"
 Alter: [17]
 Tatort: "Bräunlingen"
 Datum: 2001-09-08
+Latitude: 47.9290
+Longitude: 8.4481
 ---
 
 ### Das Opfer

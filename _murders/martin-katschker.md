@@ -4,6 +4,8 @@ Name:  "Martin Katschker"
 Alter: [17]
 Tatort: "Konstanz"
 Datum: 1970-08-29
+Latitude: 47.6589
+Longitude: 9.1719
 ---
 
 ### Das Opfer

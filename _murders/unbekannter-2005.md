@@ -4,6 +4,8 @@ Name:  "Unbekannt"
 Alter:
 Tatort: "Stuttgart"
 Datum: 2005-01
+Latitude: 48.7758
+Longitude: 9.1798
 ---
 
 ### Das Opfer

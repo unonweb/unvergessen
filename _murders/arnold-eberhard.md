@@ -1,9 +1,11 @@
 ---
 layout: post
 Name:  "Eberhard Arnold"
-Alter: 23
+Alter: [23]
 Tatort: "Ludwigsburg"
 Datum: 1990-10-21
+Latitude: 48.8921
+Longitude: 9.1853
 ---
 
 ### Das Opfer

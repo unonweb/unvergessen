@@ -4,6 +4,8 @@ Name:  "Agostinho Comboio"
 Alter: [34]
 Tatort: "Wangen"
 Datum: 1991-06-16
+Latitude: 47.6854
+Longitude: 9.8344
 ---
 
 ### Das Opfer

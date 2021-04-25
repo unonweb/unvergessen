@@ -4,6 +4,8 @@ Name:  Michele Kiesewetter
 Alter: [22]
 Tatort: "Heilbronn"
 Datum: 2007-07-25
+Latitude: 49.1420
+Longitude: 9.2188
 ---
 
 ### Das Opfer

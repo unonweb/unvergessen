@@ -4,6 +4,8 @@ Name:  "Kiomars Javadi"
 Alter: [20]
 Tatort: "Tübingen"
 Datum: 1987-08-19
+Latitude: 48.5234
+Longitude: 9.0529
 ---
 ### Das Opfer
 

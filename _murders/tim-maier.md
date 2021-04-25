@@ -4,6 +4,8 @@ Name:  "Tim Maier"
 Alter: [20]
 Tatort: "Bad Buchau"
 Datum: 2005-11-26
+Latitude: 48.0635
+Longitude: 9.6107
 ---
 
 ### Das Opfer

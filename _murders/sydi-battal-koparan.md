@@ -2,8 +2,10 @@
 layout: post
 Name:  "Sydi Battal Koparan"
 Alter: [44]
-Tatort: "Ludwigsburg"
+Tatort: "Gündelbach"
 Datum: 1982-01-01
+Latitude: 48.9937
+Longitude: 8.9422
 ---
 
 ### Das Opfer
