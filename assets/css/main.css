@@ -1,9 +1,6 @@
 /* --- HEADER --- */
 header {
     grid-area: header;
-    width: fit-content;
-    background-repeat: no-repeat;
-    background-position: left top;
     overflow: hidden;
     border-width: 1px;
     border-style: solid;
@@ -18,18 +15,24 @@ header > img {
 
 body {
     display: grid;
-    grid-template-columns: 1fr 120px 800px 120px 1fr;
-    grid-template-rows: 120px auto auto auto 100px 100px;
-    grid-template-areas: '. 	. 		header 		. 		.'
-		'. 	. 		main-title 	. 		.'
-		'. 	map 	map 		map 	.'
-		'. 	gal 	gal 		gal 	.'
-		'. 	. 		blog-title 	. 		.'
-		'. 	. 		blog 		. 		.'
-		'. 	footer 	footer 	footer 		.';
+    grid-template-columns: 1fr 1fr 9fr 1fr 1fr;
+    grid-template-rows: 95px auto auto auto 100px 100px;
+    grid-template-areas: '. . header . .' '. . main-title . .' '. map map map .' '. gal gal gal .' '. . blog-title . .' '. . blog . .';
     grid-area: header;
     background-color: #dadada;
     font-family: 'Abel', sans-serif;
+}
+
+@media (min-width:1200px) {
+    body {
+        display: grid;
+        grid-template-columns: 1fr 1fr 9fr 1fr 1fr;
+        grid-template-rows: 120px auto auto auto 100px 100px;
+        grid-template-areas: '. . header . .' '. . main-title . .' '. map map map .' '. gal gal gal .' '. . blog-title . .' '. . blog . .';
+        grid-area: header;
+        background-color: #dadada;
+        font-family: 'Abel', sans-serif;
+    }
 }
 
 aside > input {
@@ -89,7 +92,8 @@ h3 {
     background-color: #ffffff;
 }
 
-.map__person-name, .gallery__person {
+.map__person-name,
+.gallery__person {
     font-weight: bold;
     color: #760505;
 }
@@ -153,10 +157,9 @@ table.place-time {
     flex-wrap: nowrap;
     overflow-x: scroll;
     align-items: center;
-	/*
-	scrollbar-width: none;
-    scroll-behavior: smooth;
-	*/
+
+    /* scrollbar-width: none;
+    scroll-behavior: smooth; */
 }
 
 .gallery__poster {
@@ -166,7 +169,7 @@ table.place-time {
     width: fit-content;
     min-width: fit-content;
     margin-right: 20px;
-	cursor: pointer;
+    cursor: pointer;
 }
 
 #gallery__arrow-left {
@@ -179,11 +182,10 @@ table.place-time {
 
 .gallery__arrow-controls {
     font-size: 24px;
-	z-index: 10;
-    /*
-	position: absolute;
-    top: 25%;
-	*/
+    z-index: 10;
+
+    /* position: absolute;
+    top: 25%; */
     opacity: 0.6;
     cursor: pointer;
 }
@@ -199,8 +201,6 @@ ul.post-list {
     font-weight: 400;
     src: url('/assets/fonts/Abel-Regular.ttf') format('truetype');
 }
-
-
 
 /* ------ NOT USED ANY MORE ------ */
 /* section#gallery {
