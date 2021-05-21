@@ -6,11 +6,12 @@ header {
     border-style: solid;
 }
 
-header > img {
-    object-fit: cover;
+.header__img {
     width: 100%;
-    object-position: left top;
+    object-fit: cover;
     height: 100%;
+    object-position: top left;
+    min-height: 200px;
 }
 
 body {
